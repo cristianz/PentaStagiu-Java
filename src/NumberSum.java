@@ -14,5 +14,6 @@ public class NumberSum {
             for (int i= 0; i<=targetNumber; i++)
                 SumNo+=i;
         System.out.println("Sum of all numbers is: " + SumNo);
+        scanner.close();
     }
 }
