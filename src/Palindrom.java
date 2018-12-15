@@ -1,5 +1,10 @@
 import java.util.Scanner;
+/* Write a program to test whether a given string is a palindrome or not
 
+For example
+Given the following string “aaabccbaaa” should return TRUE
+Given the following string “abccbb” should return FALSE
+*/
 public class Palindrom {
     public static void main(String[] args)
     {

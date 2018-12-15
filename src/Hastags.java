@@ -1,5 +1,9 @@
 import java.util.Scanner;
+/*Write a program that will insert a # between any duplicate letters that are placed right next to each.
+For example
 
+Given the following string “Hello world” the output should be “Hel#lo world”
+ */
 public class Hastags {
     public static void main(String[] args)
     {
